@@ -8,7 +8,7 @@
 # If output directory is not specified, "./iwslt15" will be used as the default
 # output directory.
 OUT_DIR="${1:-enbrxmed18}"
-SITE_PREFIX="http://cit.ac.in/~sn"
+SITE_PREFIX="https://cit.ac.in/~sn"
 
 mkdir -v -p $OUT_DIR
 
